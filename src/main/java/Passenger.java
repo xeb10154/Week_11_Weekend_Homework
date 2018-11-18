@@ -16,8 +16,4 @@ public class Passenger {
         return bags;
     }
 
-    public int totalBaggageWeight(){
-        return this.bags * 5; //5kg per bag
-    }
-
 }
